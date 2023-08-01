@@ -19,16 +19,16 @@
 
 # Hey there!
 
-Io sono mett, il creatore di Mett_Bot e streammer su twitch!
+Io sono mett, il creatore di MettDeveloper
 
-- ⚡ Attualmente sto creando una bot list e dei piccoli progetti.
-- :gift_heart:  Proprietario di [Mett_Bot](https://dsc.gg/invitemettbot) e <br> [Make Your Bot Know](https://discord.gg/6CsC2dym)
+- ⚡ Attualmente sto sviluppando MathBot ed altri piccoli progetti.
+- :gift_heart:  Proprietario di [MathBot](https://dsc.gg/m4th-bot) e <br> [Mett Developer](https://discord.gg/mFVfHBbJ3d )
 - ✊ Not perfect, but i'll be one day.
 - :dart:  Uso il mio tempo per programmare, giocare ai videogiochi, dormire :)
 - :muscle:   Sostieni i miei progetti, [Donami qualcosa](https://streamelements.com/mett_300/tip)
 
 
-Collaborazione? <a href="mailto:matteoloffredo755@gmail.com">inviami un email</a><br>
+Collaborazione? <a href="mailto:matteoloffredo23@gmail.com">inviami un email</a><br>
 Oppure [DM](https://discord.com/users/971440665705730068) su Discord!
 
 ## :wrench: Interests
