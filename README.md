@@ -1,6 +1,7 @@
-<div style="width: 128px; height: 128px; display: flex; justify-content: center; align-items: center;">
+<div style="width: 128px; height: 128px; display: flex; justify-content: center; align-items: center; background-color: #f0f0f0;">
   <img src="https://cdn.discordapp.com/avatars/1052995417312346132/a341a152472f49fab24e117f9a3e32ef.png" style="max-width: 100%; max-height: 100%;" />
 </div>
+
  
 
 <h3 align="center">Hey guys, i'm <a href="https://discord.com/users/971440665705730068">Mett</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
