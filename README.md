@@ -1,9 +1,9 @@
-<div>
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100vh;">
   <a href="https://cdn.discordapp.com/avatars/1052995417312346132/a341a152472f49fab24e117f9a3e32ef.png">
-    <img src="https://cdn.discordapp.com/avatars/1052995417312346132/a341a152472f49fab24e117f9a3e32ef.png" style="max-width: 128px; max-height: 128px; display: block;" />
+    <img src="https://cdn.discordapp.com/avatars/1052995417312346132/a341a152472f49fab24e117f9a3e32ef.png" style="max-width: 128px; max-height: 128px;" />
   </a>
 </div>
-
+ 
  
 
 <h3 align="center">Hey guys, i'm <a href="https://discord.com/users/971440665705730068">Mett</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
