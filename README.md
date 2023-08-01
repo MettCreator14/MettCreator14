@@ -1,5 +1,5 @@
-<div style="width: 128px; height: 128px; display: flex; justify-content: center; align-items: center; background-color: #f0f0f0;">
-  <img src="https://cdn.discordapp.com/avatars/1052995417312346132/a341a152472f49fab24e117f9a3e32ef.png" style="max-width: 100%; max-height: 100%;" />
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+  <img src="https://cdn.discordapp.com/avatars/1052995417312346132/a341a152472f49fab24e117f9a3e32ef.png" style="max-width: 128px; max-height: 128px;" />
 </div>
  
 
