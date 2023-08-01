@@ -1,4 +1,4 @@
-<div style="display: flex; text-allign: center; width: 100%; height: 100vh;">
+<div style="text-allign: center; width: 100%; height: 100vh;">
   <a href="https://cdn.discordapp.com/avatars/1052995417312346132/a341a152472f49fab24e117f9a3e32ef.png">
     <img src="https://cdn.discordapp.com/avatars/1052995417312346132/a341a152472f49fab24e117f9a3e32ef.png" style="max-width: 128px; max-height: 128px/>
   </a>
