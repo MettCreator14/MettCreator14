@@ -13,7 +13,7 @@
 Io sono mett, il creatore di MettDeveloper
 
 - ⚡ Attualmente sto sviluppando MathBot ed altri piccoli progetti.
-- :gift_heart:  Proprietario di [MathBot](https://mettdeveloper.it/mathbot.html) puoi invitarlo cliccando [qui](https://dsc.gg/m4th-bot) e <br> [Mett Developer](https://mettdeveloper.it )
+- :gift_heart:  Proprietario di [MathBot](https://mettdeveloper.it/mathbot.html) puoi invitarlo cliccando [qui](https://dsc.gg/m4th-bot) e [Mett Developer](https://mettdeveloper.it )
 - ✊ Not perfect, but i'll be one day.
 - :dart:  Uso il mio tempo per programmare, giocare ai videogiochi, dormire :)
 - :muscle:   Sostieni i miei progetti, [Donami qualcosa](https://streamelements.com/mett_300/tip)
@@ -34,9 +34,10 @@ Magari prendi un drink e vieni a rilassarti con noi!
 
 ## My GitHub Stats
 
-<a style="text-decoration: none;" href="https://bit.ly/3qHPJLT1">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=mettCreator14&theme=midnight-blue&show_icons=true&bg_color=0D1117&hide_border=true" />
-</a>
-<a href="https://bit.ly/3qHPJLT1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mettCreator14&theme=midnight-blue&layout=compact&bg_color=0D1117&hide_border=true" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mettCreator14&theme=midnight-blue&show_icons=true&bg_color=0D1117&hide_border=true" width="450" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mettCreator14&theme=midnight-blue&layout=compact&bg_color=0D1117&hide_border=true" />
+</p>
