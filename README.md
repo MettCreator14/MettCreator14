@@ -34,10 +34,10 @@ Magari prendi un drink e vieni a rilassarti con noi!
 
 ## My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mettCreator14&theme=midnight-blue&show_icons=true&bg_color=0D1117&hide_border=true" width="450" height="170" />
-</p>
+<a href="https://github.com/MettCreator14">
+  <img width="450" height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=MettCreator14&theme=midnight-blue&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mettCreator14&theme=midnight-blue&layout=compact&bg_color=0D1117&hide_border=true" />
-</p>
+<a href="https://github.com/MettCreator14">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MettCreator14&theme=midnight-blue&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
