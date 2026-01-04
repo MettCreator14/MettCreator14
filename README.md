@@ -4,7 +4,7 @@
 <h3 align="center">Hey guys, i'm <a href="https://discord.com/users/971440665705730068">Mett</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 <p align="center">
   <a href="https://discord.com/users/971440665705730068"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://bit.ly/3qHPJLT"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.youtube.com/watch?v=9fBt-HVpVdc"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
    <a href="https://bit.ly/3qHPJLT"><img alt="Twitch" title="Twitch" src="https://img.shields.io/badge/-Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white"/></a>
 </p>
 
